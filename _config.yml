@@ -1,6 +1,6 @@
 # Site settings
-title: Imagine Jekyll Theme
-email: youremailaddress@gmail.com
+title: Vendexis - Tools for Unattended Retail
+email: stan@vendex.is
 description: >- # this means to ignore newlines until "baseurl:"
   Create a strong and memorable first impression with a free one-page business website template, Imagine. 
   This remarkable site canvas has a clean and minimalistic look that will display your content beautifully. 
@@ -9,9 +9,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Keep in mind, the appearance of Imagine works fantastically well by default, but you can tweak it, too.
   It is released under the Creative Commons.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://icheft.github.io/imagine-jekyll-theme # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  yourname
-author: icheft
+url: https://vendexis.github.io/imagine-jekyll-theme # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  vendexis-stan
+author: Stan
 
 
 # Build settings
