@@ -1,16 +1,14 @@
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-162829284-3'
+google-ID: 'UA-180845434-1'
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/icheft'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/brianlhchen/'}
-- {icon: 'envelope', link: 'mailto:brian.lxchen@gmail.com'}
-- {icon: 'instagram', link: 'https://instagram.com/brian_lxchen'}
-- {icon: 'facebook', link: 'https://facebook.com/brian.lxchen'}
+- {icon: 'github', link: 'https://www.github.com/vendexis-stan'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/shychan/'}
+- {icon: 'envelope', link: 'mailto:info@vendex.is'}
 
 
 # Customize site text
-title: "imagine | Onepage Jekyll Theme"
-header: "imagine"
+title: "Vendexis | Supercharging Unattended Retail"
+header: "vendexis"
